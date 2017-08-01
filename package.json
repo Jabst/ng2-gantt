@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ng2-gantt",
+        "scope": null,
+        "escapedName": "ng2-gantt",
+        "name": "ng2-gantt",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\up201\\Documents\\ng2-admin"
+    ]
+  ],
+  "_from": "ng2-gantt@latest",
+  "_inCache": true,
+  "_location": "/ng2-gantt",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ng2-gantt-1.11.1-alpha.9.tgz_1495631955957_0.8090293209534138"
+  },
+  "_npmUser": {
+    "name": "dalestone",
+    "email": "dale@stonenet.co.uk"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ng2-gantt",
+    "scope": null,
+    "escapedName": "ng2-gantt",
+    "name": "ng2-gantt",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng2-gantt/-/ng2-gantt-1.11.1-alpha.9.tgz",
+  "_shasum": "c95de933b26e5976ef5f0404bbd0098d4e0f7c10",
+  "_shrinkwrap": null,
+  "_spec": "ng2-gantt",
+  "_where": "C:\\Users\\up201\\Documents\\ng2-admin",
+  "bugs": {
+    "url": "https://github.com/dalestone/angular2-gantt/issues"
+  },
+  "dependencies": {},
+  "description": "Angular 2 Gantt",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c95de933b26e5976ef5f0404bbd0098d4e0f7c10",
+    "tarball": "https://registry.npmjs.org/ng2-gantt/-/ng2-gantt-1.11.1-alpha.9.tgz"
+  },
+  "homepage": "https://github.com/dalestone/angular2-gantt/#readme",
+  "keywords": [
+    "angular",
+    "material",
+    "gantt",
+    "angular2",
+    "gantt html"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    "dalestone <dale@stonenet.co.uk>"
+  ],
+  "name": "ng2-gantt-mod",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/common": "2.4.5",
+    "@angular/compiler": "2.4.5",
+    "@angular/core": "2.4.5"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalestone/angular2-gantt.git"
+  },
+  "scripts": {},
+  "version": "1.11.1-alpha.9",
+  "main": "index.js",
+  "author": "dalestone"
+}
